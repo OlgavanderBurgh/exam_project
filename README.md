@@ -1,4 +1,5 @@
 Information Science: exam project
+
 Olga van der Burgh
 
 For this project, I have built a program that accepts user input of a book title (e.g. "To Kill a Mockingbird",
