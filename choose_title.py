@@ -23,7 +23,7 @@ def create_list_of_titles(response_dictionary: dict) -> list:
                             list_of_titles.append(title)
                             # the title is appended to the list of titles
     print("\n")
-    print("----------TITLES FOUND----------")
+    print("TITLES FOUND")
     print("\n")
     pprint.pprint(list_of_titles)
     print("\n")
