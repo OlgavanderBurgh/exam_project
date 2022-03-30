@@ -11,7 +11,7 @@ DBPEDIA_PREFIX = "https://lookup.dbpedia.org/api/search/PrefixSearch?QueryString
 
 CODES = {}
 CODES[401] = "Unauthorized."
-CODES[404] = "Not Found."
+CODES[404] = "Not able to find."
 CODES[429] = "Too Many Requests."
 CODES[500] = "Internal Server Error."
 # HTTP status codes https://www.restapitutorial.com/httpstatuscodes.html
